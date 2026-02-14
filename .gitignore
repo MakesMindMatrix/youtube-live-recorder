@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment variables (API keys)
+.env
+
+# Output CSV files
+output/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional
+package-lock.json
+.csv
